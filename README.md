@@ -1,12 +1,11 @@
 # Profile
 
-**About**
+## About
 
 
-**contributor**
+## Contributor
 
-Ayushi Gupta
-
+**Ayushi Gupta**
 <ayu123shi@gmail.com>
 
 
